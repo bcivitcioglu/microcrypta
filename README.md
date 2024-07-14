@@ -1,3 +1,4 @@
+[![Downloads](https://static.pepy.tech/badge/microcrypta)](https://pepy.tech/project/microcrypta)
 # microcrypta
 
 `microcrypta` is a Python package for cryptocurrency technical analysis. It provides tools for fetching market data, performing technical analysis, and backtesting trading strategies.
